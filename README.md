@@ -19,6 +19,7 @@ Visit Ghost at: [www.ghost.org](http://www.ghost.org "Ghost")
 
 ###On The Mac
 ![Screenshot](screen1.png?raw=true)
+![Screenshot](screen3.png?raw=true)
 
 ###On The iPhone
 ![Screenshot](screen2.png?raw=true)
