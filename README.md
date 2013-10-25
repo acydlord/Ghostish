@@ -8,7 +8,10 @@ Design copyright 2013 Ghost Foundation.
 Forked from Casper, the default Ghost theme and forked again from GhostBacker, Polygonix's theme.
 
 Visit Ghost at: [www.ghost.org](http://www.ghost.org "Ghost")
-Also visit Polygonix's theme for more info" [GhostBacker](https://github.com/polygonix/GhostBacker)
+
+Also visit Polygonix's theme for more info: [GhostBacker](https://github.com/polygonix/GhostBacker)
+
+Checkout a Live Demo: [@brodtho / 162.243.51.29](http://162.243.51.29)
 
 ##Changes from GhostBacker
 
