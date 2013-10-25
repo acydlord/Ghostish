@@ -23,3 +23,4 @@ Visit Ghost at: [www.ghost.org](http://www.ghost.org "Ghost")
 
 ###On The iPhone
 ![Screenshot](screen2.png?raw=true)
+![Screenshot](screen4.png?raw=true)
