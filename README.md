@@ -17,4 +17,8 @@ Visit Ghost at: [www.ghost.org](http://www.ghost.org "Ghost")
 * Larger display size, possibly too large for most people
 * Better layout Media Queries for the Responsiveness
 
-![Screenshot](screen.png?raw=true)
+###On The Mac
+![Screenshot](screen1.png?raw=true)
+
+###On The iPhone
+![Screenshot](screen1.png?raw=true)
