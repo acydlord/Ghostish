@@ -5,9 +5,10 @@ A theme for the [Ghost Blogging platform](http://ghost.org "Ghost Blogging Platf
 
 Design copyright 2013 Ghost Foundation.
 
-Forked from Casper, the default Ghost theme and forked again from GhostBacker, polygonix's theme.
+Forked from Casper, the default Ghost theme and forked again from GhostBacker, Polygonix's theme.
 
 Visit Ghost at: [www.ghost.org](http://www.ghost.org "Ghost")
+Also visit Polygonix's theme for more info" [GhostBacker](https://github.com/polygonix/GhostBacker)
 
 ##Changes from GhostBacker
 
